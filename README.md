@@ -4,7 +4,9 @@ VDEW Erweiterungen für IEC62056
 Copyright 2019 Hochschule für Angewandte Wissenschaften Hof
 
 ___
-###Dependency
+
+### Dependency
+
 ```
 <dependency>
     <groupId>de.iisys.smartgrids</groupId>
