@@ -19,10 +19,5 @@
             <artifactId>libiec62056</artifactId>
             <version>LATEST</version>
         </dependency>
-        <dependency>
-            <groupId>${project.groupId}</groupId>
-            <artifactId>libIEC62056</artifactId>
-            <version>${project.version}</version>
-        </dependency>
     </dependencies>
 </project>
