@@ -5,6 +5,13 @@ Copyright 2019 Hochschule für Angewandte Wissenschaften Hof
 
 ___
 
+
+### Hilfreiche Dokumente
+
+VDEW-Lastenheft - Erweiterte Version 2.1.2: Elektronische Lastgangzähler
+
+___
+
 ### Dependency
 
 ```
@@ -14,3 +21,5 @@ ___
     <version>0.0.1</version>
 </dependency>
 ```
+
+___
